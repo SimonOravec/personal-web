@@ -64,6 +64,7 @@ $diff = $today->diff($bday);
                         <span id="m_<?=$rand?>" style="color:#49b5e6;user-select:all;">[PROTECTED]</span>
                         <noscript><br><font style="color:red;font-size:12px;text-transform:none;letter-spacing:1px;">*You need to enable JavaScript to view my email</font></noscript>
                     </p>
+                    <a href="https://github.com/simonoravec" target="_blank"><img style="width:56px;height:56px;" src="https://static.simonoravec.eu/get/img/github-white.png"></a>
                 </div>
             </div>
             <div class="footer">&copy; <?=date("Y")?> Šimon Oravec</div>
